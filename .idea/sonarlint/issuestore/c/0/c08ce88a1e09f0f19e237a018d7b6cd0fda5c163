@@ -1,0 +1,15 @@
+
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©úÚ£8øìÇ¦.
+~	java:S116"]Rename this field "GoogleTraslateData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ääšéùÿÿÿÿ8‘šíÇ¦.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ääšéùÿÿÿÿ8‘šíÇ¦.
+;
+java:S1128	"Remove this duplicated import.(¢âÒò8ş¶¡È¦.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úõåçıÿÿÿÿ8ş¶¡È¦.
+[
+java:S1172"9Remove this unused method parameter "GoogletraslateData".(úõåçıÿÿÿÿ8ç´®È¦.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©úÚ£8¿ÕÇ¦.
+e
+java:S1128"CRemove this unused import 'net.serenitybdd.screenplay.Performable'.(ğ”„Îüÿÿÿÿ8–ğ‘Ç¦.
+Œ
+java:S4165"pRemove this useless assignment; "GoogleTraslateData" already holds the assigned value along all execution paths.(ÔªÖ{8ç´®È¦.
